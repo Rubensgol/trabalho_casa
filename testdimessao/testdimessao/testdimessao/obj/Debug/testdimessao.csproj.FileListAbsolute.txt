@@ -1,0 +1,34 @@
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\bin\Debug\testdimessao.exe.config
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\bin\Debug\testdimessao.exe
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\bin\Debug\testdimessao.pdb
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\testdimessao.csprojResolveAssemblyReference.cache
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\MainWindow.baml
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\MainWindow.g.cs
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\App.g.cs
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\testdimessao_MarkupCompile.cache
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\testdimessao.g.resources
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\testdimessao.Properties.Resources.resources
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\testdimessao.csproj.GenerateResource.Cache
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\testdimessao.exe
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\testdimessao.pdb
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\Entrada.baml
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\Entrada.g.cs
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\Configurar.baml
+c:\users\rubens\documents\visual studio 2013\Projects\testdimessao\testdimessao\obj\Debug\Configurar.g.cs
+C:\Luigi\testdimessao\testdimessao\bin\Debug\testdimessao.exe.config
+C:\Luigi\testdimessao\testdimessao\bin\Debug\testdimessao.exe
+C:\Luigi\testdimessao\testdimessao\bin\Debug\testdimessao.pdb
+C:\Luigi\testdimessao\testdimessao\obj\Debug\testdimessao.csprojResolveAssemblyReference.cache
+C:\Luigi\testdimessao\testdimessao\obj\Debug\Configurar.baml
+C:\Luigi\testdimessao\testdimessao\obj\Debug\Entrada.baml
+C:\Luigi\testdimessao\testdimessao\obj\Debug\MainWindow.baml
+C:\Luigi\testdimessao\testdimessao\obj\Debug\Configurar.g.cs
+C:\Luigi\testdimessao\testdimessao\obj\Debug\Entrada.g.cs
+C:\Luigi\testdimessao\testdimessao\obj\Debug\MainWindow.g.cs
+C:\Luigi\testdimessao\testdimessao\obj\Debug\App.g.cs
+C:\Luigi\testdimessao\testdimessao\obj\Debug\testdimessao_MarkupCompile.cache
+C:\Luigi\testdimessao\testdimessao\obj\Debug\testdimessao.g.resources
+C:\Luigi\testdimessao\testdimessao\obj\Debug\testdimessao.Properties.Resources.resources
+C:\Luigi\testdimessao\testdimessao\obj\Debug\testdimessao.csproj.GenerateResource.Cache
+C:\Luigi\testdimessao\testdimessao\obj\Debug\testdimessao.exe
+C:\Luigi\testdimessao\testdimessao\obj\Debug\testdimessao.pdb

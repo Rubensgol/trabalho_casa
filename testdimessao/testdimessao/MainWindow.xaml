@@ -1,0 +1,49 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="testdimessao.MainWindow"
+        Title="MainWindow" Height="566" Width="679" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" Background="White">
+    <Grid OpacityMask="#FF890000" Background="#FF0A8585" RenderTransformOrigin="0.514,0.515" Margin="-1,0,0,-4" Height="196" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="672">
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="0.279"/>
+                <TranslateTransform X="-0.051" Y="0.072"/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="137*"/>
+            <RowDefinition Height="115*"/>
+            <RowDefinition Height="29"/>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="16*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="107*"/>
+            <ColumnDefinition Width="129*"/>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="153*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="56*"/>
+            <ColumnDefinition Width="59*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Acusar_butao" Content="Acusar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="201" Margin="66,32,0,0" Height="122" Background="Red" Grid.RowSpan="4" Click="Acusar_click" Grid.ColumnSpan="2" FontSize="20"/>
+        <Button x:Name="Confessar_butao" Content="confessar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="201" RenderTransformOrigin="3.653,12.632" Grid.Column="3" Margin="42,32,0,0" Height="122" Grid.Row="1" Background="#FF00B228" Click="Confessar_butao_Click" Grid.RowSpan="3" Grid.ColumnSpan="4" FontSize="20"/>
+        <Grid HorizontalAlignment="Left" Height="334" VerticalAlignment="Top" Width="670" Margin="1,-349,0,0" Grid.ColumnSpan="7" Background="White" RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.207"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Label x:Name="Quem_ta_jogando" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="61,36,0,0"/>
+        </Grid>
+        <Image HorizontalAlignment="Left" Height="172" VerticalAlignment="Top" Width="340" Grid.ColumnSpan="5" Grid.Column="2" Margin="2,-335,0,0" Source="imagens/fala.png"/>
+        <TextBox x:Name="texto_pergunta" HorizontalAlignment="Left" Height="111" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Grid.Column="3" Margin="18,-316,0,0" BorderThickness="0" Grid.ColumnSpan="4"/>
+
+    </Grid>
+</Window>

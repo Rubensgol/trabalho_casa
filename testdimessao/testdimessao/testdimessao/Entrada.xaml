@@ -1,0 +1,15 @@
+﻿<Window x:Class="testdimessao.Entrada"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Entrada" Height="359" Width="395">
+    <Grid>
+        <Button x:Name="Ir_Para_Perguntas" Content="IR para as perguntas" HorizontalAlignment="Left" Margin="81,209,0,0" VerticalAlignment="Top" Width="119" Height="51" Click="Ir_Para_Perguntas_Click"/>
+        <TextBox x:Name="Text_Numero_Perguntas" HorizontalAlignment="Left" Height="23" Margin="122,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="N_perguntas" HorizontalAlignment="Left" Margin="10,29,0,0" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="Nome_jogar_1" HorizontalAlignment="Left" Height="23" Margin="122,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Nome_jogar_2" HorizontalAlignment="Left" Height="23" Margin="122,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Nome jogar 1" HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.306,-0.261"/>
+        <Label Content="Nome jogador 2" HorizontalAlignment="Left" Margin="10,115,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.444,-0.522"/>
+
+    </Grid>
+</Window>
