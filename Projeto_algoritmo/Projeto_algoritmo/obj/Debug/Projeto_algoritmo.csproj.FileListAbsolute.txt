@@ -1,0 +1,9 @@
+c:\users\rubens\documents\visual studio 2013\Projects\Projeto_algoritmo\Projeto_algoritmo\bin\Debug\Projeto_algoritmo.exe.config
+C:\Users\Rubens\Documents\Visual Studio 2013\Projects\Projeto_algoritmo\Projeto_algoritmo\bin\Debug\Projeto_algoritmo.exe
+C:\Users\Rubens\Documents\Visual Studio 2013\Projects\Projeto_algoritmo\Projeto_algoritmo\bin\Debug\Projeto_algoritmo.pdb
+C:\Users\Rubens\Documents\Visual Studio 2013\Projects\Projeto_algoritmo\Projeto_algoritmo\obj\Debug\Projeto_algoritmo.csprojResolveAssemblyReference.cache
+C:\Users\Rubens\Documents\Visual Studio 2013\Projects\Projeto_algoritmo\Projeto_algoritmo\obj\Debug\Projeto_algoritmo.Form1.resources
+C:\Users\Rubens\Documents\Visual Studio 2013\Projects\Projeto_algoritmo\Projeto_algoritmo\obj\Debug\Projeto_algoritmo.Properties.Resources.resources
+C:\Users\Rubens\Documents\Visual Studio 2013\Projects\Projeto_algoritmo\Projeto_algoritmo\obj\Debug\Projeto_algoritmo.csproj.GenerateResource.Cache
+C:\Users\Rubens\Documents\Visual Studio 2013\Projects\Projeto_algoritmo\Projeto_algoritmo\obj\Debug\Projeto_algoritmo.exe
+C:\Users\Rubens\Documents\Visual Studio 2013\Projects\Projeto_algoritmo\Projeto_algoritmo\obj\Debug\Projeto_algoritmo.pdb
