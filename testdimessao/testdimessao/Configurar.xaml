@@ -1,8 +1,23 @@
 ﻿<Window x:Class="testdimessao.Configurar"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Configurar" Height="300" Width="300">
+        Title="Configurar" Height="378" Width="405">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="190*"/>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="147*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="73*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="157*"/>
+            <RowDefinition Height="77*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="texto_perguntas" TextWrapping="Wrap" Margin="130,27,109,9" Grid.ColumnSpan="3"/>
+        <Button Content="Button" Click="Button_Click" Margin="21,20,49,10" Grid.Row="3"/>
+        <Button x:Name="mostra_perguntas" Content="Button" Margin="1,20,47,10" Click="mostra_perguntas_Click" Grid.Row="3" Grid.Column="2"/>
+        <TextBox x:Name="mostra_pergunta" HorizontalAlignment="Left" Height="167" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" Margin="52,10,0,0" Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
+
     </Grid>
 </Window>

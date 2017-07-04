@@ -135,7 +135,7 @@ namespace testdimessao
                 calc_pena();
                 MessageBox.Show(calc_pena());
                 pontuacao.ShowDialog();
-                pergunta_atual = 0;
+                pergunta_atual = 0;     
 
             }
             controlar_pergunta++;
